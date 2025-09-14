@@ -1,3 +1,9 @@
+# RecipesBlog
+## Cooking is my Favourite. I strugged to find a recipe when want to cook something. So I built this Blog - a fullstack Project by using Next.js and database PostgreSQL.
+### Some introductions are shown at the following:
+
+![Homepage with Desktop interface](./RecipesBlog-Home-Desktop.png) 
+![Homepage with Desktop interface](./RecipesBlog-detail.png)
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
